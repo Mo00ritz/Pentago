@@ -1,0 +1,71 @@
+C:\Users\morit\source\repos\Pentago\Pentago\bin\Debug\Pentago.exe.config
+C:\Users\morit\source\repos\Pentago\Pentago\bin\Debug\Pentago.exe
+C:\Users\morit\source\repos\Pentago\Pentago\bin\Debug\Pentago.pdb
+C:\Users\morit\source\repos\Pentago\Pentago\obj\Debug\Pentago.csproj.AssemblyReference.cache
+C:\Users\morit\source\repos\Pentago\Pentago\obj\Debug\Pentago.Pentago.resources
+C:\Users\morit\source\repos\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+C:\Users\morit\source\repos\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+C:\Users\morit\source\repos\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+C:\Users\morit\source\repos\Pentago\Pentago\obj\Debug\Pentago.exe
+C:\Users\morit\source\repos\Pentago\Pentago\obj\Debug\Pentago.pdb
+F:\Pentago\Pentago\bin\Debug\Pentago.exe.config
+F:\Pentago\Pentago\bin\Debug\Pentago.exe
+F:\Pentago\Pentago\bin\Debug\Pentago.pdb
+F:\Pentago\Pentago\obj\Debug\Pentago.csproj.AssemblyReference.cache
+F:\Pentago\Pentago\obj\Debug\Pentago.Pentago.resources
+F:\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+F:\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+F:\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+F:\Pentago\Pentago\obj\Debug\Pentago.exe
+F:\Pentago\Pentago\obj\Debug\Pentago.pdb
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\obj\Debug\Pentago.csproj.AssemblyReference.cache
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\obj\Debug\Pentago.Pentago.resources
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\obj\Debug\Pentago.exe
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\obj\Debug\Pentago.pdb
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\bin\Debug\Pentago.exe.config
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\bin\Debug\Pentago.exe
+C:\Users\MoritzKappen\Desktop\Pentago\Pentago\bin\Debug\Pentago.pdb
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\obj\Debug\Pentago.csproj.AssemblyReference.cache
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\obj\Debug\Pentago.Pentago.resources
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\obj\Debug\Pentago.exe
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\obj\Debug\Pentago.pdb
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\bin\Debug\Pentago.exe.config
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\bin\Debug\Pentago.exe
+C:\Users\MoritzKappen\Desktop\Pentago - Copy\Pentago\bin\Debug\Pentago.pdb
+C:\Users\morit\Desktop\Pentago\Pentago\bin\Debug\Pentago.exe.config
+C:\Users\morit\Desktop\Pentago\Pentago\bin\Debug\Pentago.exe
+C:\Users\morit\Desktop\Pentago\Pentago\bin\Debug\Pentago.pdb
+C:\Users\morit\Desktop\Pentago\Pentago\obj\Debug\Pentago.csproj.AssemblyReference.cache
+C:\Users\morit\Desktop\Pentago\Pentago\obj\Debug\Pentago.Pentago.resources
+C:\Users\morit\Desktop\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+C:\Users\morit\Desktop\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+C:\Users\morit\Desktop\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+C:\Users\morit\Desktop\Pentago\Pentago\obj\Debug\Pentago.exe
+C:\Users\morit\Desktop\Pentago\Pentago\obj\Debug\Pentago.pdb
+D:\Pentago\Pentago\bin\Debug\Pentago.exe.config
+D:\Pentago\Pentago\bin\Debug\Pentago.exe
+D:\Pentago\Pentago\bin\Debug\Pentago.pdb
+D:\Pentago\Pentago\obj\Debug\Pentago.csproj.AssemblyReference.cache
+D:\Pentago\Pentago\obj\Debug\Pentago.csproj.SuggestedBindingRedirects.cache
+D:\Pentago\Pentago\obj\Debug\Pentago.Pentago.resources
+D:\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+D:\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+D:\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+D:\Pentago\Pentago\obj\Debug\Pentago.exe
+D:\Pentago\Pentago\obj\Debug\Pentago.pdb
+E:\Pentago\Pentago\bin\Debug\Pentago.exe.config
+E:\Pentago\Pentago\bin\Debug\Pentago.exe
+E:\Pentago\Pentago\bin\Debug\Pentago.pdb
+E:\Pentago\Pentago\obj\Debug\Pentago.csproj.AssemblyReference.cache
+E:\Pentago\Pentago\obj\Debug\Pentago.Pentago.resources
+E:\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+E:\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+E:\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+E:\Pentago\Pentago\obj\Debug\Pentago.exe
+E:\Pentago\Pentago\obj\Debug\Pentago.pdb
