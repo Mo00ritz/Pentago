@@ -1,1 +1,1 @@
-Pentago für die Berufsschule klaut wenn ihr wollt.
+Pentago für die Berufsschule
